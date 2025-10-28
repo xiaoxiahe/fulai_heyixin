@@ -1,0 +1,9 @@
+# 训练与评估必需
+torch>=1.12.0
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+tqdm>=4.64.0
+
+# BERT/特征提取（如需在线特征或一致的Tokenizer/Model缓存）
+transformers>=4.30.0
